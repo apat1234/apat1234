@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ash 👋
 
-<!--
-**apat1234/apat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Graduate | IT Service Desk 
 
-Here are some ideas to get you started:
+I'm a cybersecurity graduate based in Melbourne, Australia, with experience in IT support, software security testing and access control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my practical cybersecurity skills through hands-on projects, with a particular interest in Security Operations (SOC), Identity and Access Management (IAM), and incident response.
+
+## 🔐 Areas of Interest
+- Security Operations and Threat Detection
+- Identity and Access Management
+- Vulnerability Assessment
+- Network Security and Incident Response
+- Security Automation
+
+## 🛠️ Technical Experience
+- IT Support and Technical Troubleshooting
+- Software Security Testing
+- Role-Based Access Control (RBAC)
+- Security Risk Assessment
+- Requirements Analysis and Documentation
+
+## 🚀 Cybersecurity Projects
+I'm building a collection of practical cybersecurity projects, including:
+
+- SOC Home Lab — Security monitoring and threat detection
+- IAM Lab — Identity management and access control
+- Vulnerability Assessment — Risk identification and remediation
+- Network Forensics — Network traffic investigation
